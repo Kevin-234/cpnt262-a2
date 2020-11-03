@@ -54,7 +54,7 @@ export const animals = [
     title:  'Husky',
     credit: 'Alexander Dimitrov',
     url:    'https://unsplash.com/photos/KGy1GFeKBu4',
-    path:   '659-Husky',
+    path:   '659-husky',
     width:   '300',
     height:  '210'
   },
@@ -63,7 +63,7 @@ export const animals = [
     title:  'Wolf',
     credit: 'Josh Felise',
     url:    'https://unsplash.com/photos/mblYxasm0nk',
-    path:   '718-Wolf',
+    path:   '718-wolf',
     width:   '300',
     height:  '210'
   },
@@ -72,7 +72,7 @@ export const animals = [
     title:  'Monkey',
     credit: 'Damir Kotorić',
     url:    'https://unsplash.com/photos/cSQw4uqF_Hc',
-    path:   '783-Monkey',
+    path:   '783-monkey',
     width:   '300',
     height:  '210'
   },
@@ -81,7 +81,7 @@ export const animals = [
     title:  'Elk',
     credit: 'rebecca johnston',
     url:    'https://unsplash.com/photos/nuRYwOJryyk',
-    path:   '790-Elk',
+    path:   '790-elk',
     width:   '300',
     height:  '210'
   },
@@ -90,7 +90,7 @@ export const animals = [
     title:  'Bulldog',
     credit: 'Yamon Figurs',
     url:    'https://unsplash.com/photos/2zlxFmByClI',
-    path:   '837-Bulldog',
+    path:   '837-bulldog',
     width:   '300',
     height:  '210'
   },
@@ -99,7 +99,7 @@ export const animals = [
     title:  'Bird',
     credit: 'Мартин Тасев',
     url:    'https://unsplash.com/photos/7ALI0RYyq6s',
-    path:   '1024-Bird',
+    path:   '1024-bird',
     width:   '300',
     height:  '210'
   },
@@ -108,7 +108,7 @@ export const animals = [
     title:  'Pug',
     credit: 'Matthew Henry',
     url:    'https://unsplash.com/photos/U5rMrSI7Pn4',
-    path:   '1025-Pug',
+    path:   '1025-pug',
     width:   '300',
     height:  '210'
   },
@@ -126,7 +126,7 @@ export const animals = [
     title:  'Walrus',
     credit: 'Jay Ruzesky',
     url:    'https://unsplash.com/photos/h13Y8vyIXNU',
-    path:   '1084-Walrus',
+    path:   '1084-walrus',
     width:   '300',
     height:  '210'
   }
