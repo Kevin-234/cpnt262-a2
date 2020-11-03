@@ -10,7 +10,7 @@ const gallery = document.querySelector('.gallery');
 // Loop through `animals` array using `array.forEach()`.
 animals.forEach(function(animal) {
 
-  outputHTML += `<figure class="card"><img src= "images/${animal.path}.jpg" alt="Lorem Picsum: ${animal.title}" 
+  outputHTML += `<figure class="card"><img src= "./images/${animal.path}.jpg" alt="Lorem Picsum: ${animal.title}" 
   height="${animal.height}" width="${animal.width}" 
   title="${animal.title}">
   <figcaption><h1>${animal.title}</h1><a href="${animal.url}" target= "_blank">${animal.credit}</a></figcaption></figure>`;
